@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="Email"><font size="10">Email Address</font></string>
+    <string name="Pass">Password</string>
+    <string name="Mobile">Mobile Number</string>
+    <string name="Signup">Sign up</string>
+    <string name="Signin">Sign in</string>
+    <string name="FName">First Name</string>
+    <string name="LName">Last Name</string>
+    <string name="age">Age</string>
+    <string name="Iagree">I agree to the Term of use </string>
+    <string name="Error">Please check your all fields or your age not support in this applcation.</string>
+    <string name="Error1">Please check your all fields not empty or Email or password are incorrect.</string>
+    <string name="Successful">Login successful</string>
+    <string name="Active">Your profile was activated.</string>
+    <string name="Yourname">Your name :</string>
+    <string name="Youremail">Your Email :</string>
+    <string name="Yourage">Your age :</string>
+</resources>
