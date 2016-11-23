@@ -1,19 +1,20 @@
 <resources>
     <string name="app_name">Application</string>
-    <string name="Email"><font size="10">Email Address</font></string>
-    <string name="Pass">Password</string>
-    <string name="Mobile">Mobile Number</string>
-    <string name="Signup">Sign up</string>
-    <string name="Signin">Sign in</string>
-    <string name="FName">First Name</string>
-    <string name="LName">Last Name</string>
-    <string name="age">Age</string>
-    <string name="Iagree">I agree to the Term of use </string>
+    <string name="Email">ایمیل آدرس</string>
+    <string name="Pass">پسورد</string>
+    <string name="Mobile">شماره تماس</string>
+    <string name="Signup">ثبت نام</string>
+    <string name="Signin"> ورود به سیستم تمرین کلاسی </string>
+    <string name="FName"> نام </string>
+    <string name="LName"> فامیل </string>
+    <string name="Cpassword"> پسورد دوم</string>
+    <string name="Iagree">من با قوانین ثبت نام موافقم </string>
+    <string name="age"> سن شما ؟</string>
     <string name="Error">Please check your all fields or your age not support in this applcation.</string>
     <string name="Error1">Please check your all fields not empty or Email or password are incorrect.</string>
-    <string name="Successful">Login successful</string>
+    <string name="Successful">ورود به سیستم موفقیت آمیز بود</string>
     <string name="Active">Your profile was activated.</string>
-    <string name="Yourname">Your name :</string>
-    <string name="Youremail">Your Email :</string>
-    <string name="Yourage">Your age :</string>
+    <string name="Yourname">اسم شما :</string>
+    <string name="Youremail">ایمیل شما :</string>
+    <string name="Yourage">سن شما :</string>
 </resources>
